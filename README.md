@@ -19,4 +19,4 @@ Welcome to my portfolio! This repository showcases my work and skills in web dev
 ## Contact
 
 Feel free to reach out to me via Mail: (colaljoxavierjade@gmail.com).
-## License
+
